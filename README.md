@@ -9,3 +9,4 @@
 #
 ```
 # android_device_samsung_a3core
+# android_device_samsung_a3core
